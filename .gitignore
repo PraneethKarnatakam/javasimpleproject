@@ -1,0 +1,7 @@
+*.iml
+.idea
+/*/target
+*/*.iml
+/inventory-application/dependency-reduced-pom.xml
+/target/
+/configuration-local.yml
