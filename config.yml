@@ -1,0 +1,12 @@
+logging:
+  level: INFO
+  loggers:
+    com.zoomcar: DEBUG
+
+template: Hello, %s!
+defaultName: Stranger
+database:
+  driverClass: com.mysql.cj.jdbc.Driver
+  user: deploy
+  password: NzE4OWRiMjZlMDRlZG
+  url: jdbc:mysql://common-staging-database.zoomcartest.com:3306/inventory3?autoReconnect=true&useSSL=false
