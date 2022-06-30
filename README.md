@@ -11,3 +11,5 @@ Health Check
 ---
 
 To see your applications health enter url `http://localhost:8081/healthcheck`
+
+Update 1 : This is a simple working model.
