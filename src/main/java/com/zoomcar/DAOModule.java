@@ -30,6 +30,7 @@ public class DAOModule {
     private static final DAOModule INSTANCE = new DAOModule();
 
     private DAOModule() {
+        System.out.println("I am getting called in Dao module");
     }
 
 
